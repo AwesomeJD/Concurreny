@@ -1,6 +1,8 @@
 /*
- * @author Janardhan Sharma 
+ * @author Janardhan Sharma and Sremayee Debbarmna
  */
+
+
 package concurrency.questions;
 
 class Paratrooper implements Runnable {
